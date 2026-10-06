@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# Runtime
+logs/
+
+# Generated (machine-specific paths)
+com.claudebot.server.plist
+
+
+# Editor/IDE
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Envars
+.env
+
+# Local-only Claude Code notes (deployment details)
+CLAUDE.local.md
